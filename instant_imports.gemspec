@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = InstantImports::VERSION
   spec.authors       = ["Nate West"]
   spec.email         = ["natescott.west@gmail.com"]
-  spec.description   = %q{Makes importing enigmatic infomation instant!}
+  spec.description   = %q{Makes importing enigmatic information instant!}
   spec.summary       = %q{Map data to fit your schema and import with ease.}
   spec.homepage      = "https://www.natescottwest.com"
   spec.license       = "MIT"
